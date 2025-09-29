@@ -11,7 +11,7 @@ Create a new plugin with the following command:
 nextflow plugin create
 ```
 
-See [Creating a plugin](https://www.nextflow.io/docs/latest/guides/gradle-plugin#gradle-plugin-create) for more information.
+See [Creating a plugin](https://www.nextflow.io/docs/latest/guides/gradle-plugin.html#gradle-plugin-create) for more information.
 
 ## Building
 
